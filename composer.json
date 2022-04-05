@@ -1,0 +1,19 @@
+{
+    "name": "kabazami/work_datetime",
+    "description": "PHP class enhancing standard DateTime for work with work days and workhours",
+    "type": "class",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Borovik",
+            "email": "kabazami@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WorkDateTime\\": "WorkDateTime/"
+        }
+    }
+}
